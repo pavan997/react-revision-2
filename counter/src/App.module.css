@@ -1,0 +1,40 @@
+.App {
+  margin: 10px 200px;
+}
+.App1 {
+  display: flex;
+  gap: 25px;
+}
+.App2 {
+  display: flex;
+  gap: 25px;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+  border: 2px solid black;
+  width: 280px;
+  height: 90px;
+  background-color: red;
+  padding: 1rem;
+  margin-bottom: 40px;
+}
+
+.box1 {
+  border: 2px solid rgb(232, 189, 91);
+  background-color: rgb(252, 230, 204);
+}
+.box2 {
+  border: 2px solid rgb(158, 182, 216);
+  background-color: rgb(219, 232, 252);
+}
+.box3 {
+  border: 2px solid rgb(193, 101, 97);
+  background-color: rgb(246, 206, 204);
+}
+.box4 {
+  border: 2px solid rgb(142, 186, 117);
+  background-color: rgb(213, 232, 212);
+}
